@@ -38,3 +38,8 @@ rl.question("Informe o valor total da sua compra: ", function(valorTotal) {
 rl.close();
 
 });
+
+//******************************* COMENTÁRIO ******************************************************************************* */
+// Este programa solicita ao usuário o valor total de uma compra, converte o valor informado para número e verifica se ele 
+// é maior ou igual a 100 para aplicar um desconto de 10%, exibindo o valor final com ou sem desconto e encerrando a execução.
+//************************************************************************************************************************** */

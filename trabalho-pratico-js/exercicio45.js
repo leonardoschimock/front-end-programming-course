@@ -32,3 +32,9 @@ rl.question("Digite valores separados por espaço: ", function(valores) {
 
     rl.close();
 });
+
+//******************************* COMENTÁRIO ******************************************************************************* */
+// Este programa solicita ao usuário que digite uma sequência de valores separados por espaço, transforma a entrada 
+// em um array utilizando o método split() e percorre cada elemento com forEach, exibindo-os individualmente no console 
+// antes de encerrar a execução.
+//************************************************************************************************************************** */

@@ -22,3 +22,9 @@ do {
     console.log("Vezes que o Flamengo foi campeão da libertadores:", numero);
 
 } while (numero < 4);
+
+//******************************* COMENTÁRIO ******************************************************************************* */
+// Este programa utiliza um laço do...while para incrementar uma variável a partir de zero e exibir, a cada repetição, 
+// uma mensagem com o número de vezes, garantindo que o bloco seja executado pelo menos uma vez até que a condição definida 
+// seja atingida.
+//************************************************************************************************************************** */

@@ -54,3 +54,9 @@ rl.question("Digite um número de 1 a 7 para verificar o dia da semana: ", funct
 rl.close();
 
 });
+
+//******************************* COMENTÁRIO ******************************************************************************* */
+// Este programa solicita ao usuário um número de 1 a 7, converte o valor informado para número e utiliza a estrutura 
+// switch para identificar e exibir o dia da semana correspondente, apresentando uma mensagem de erro caso o valor esteja 
+// fora do intervalo válido.
+//************************************************************************************************************************** */

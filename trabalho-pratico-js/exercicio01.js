@@ -34,3 +34,10 @@ rl.question("Digite um número: ", function(numero) {
 rl.close();
 
 });
+
+
+//******************************* COMENTÁRIO ******************************************************************************* */
+// Este programa solicita ao usuário que digite um número pelo terminal, converte o valor informado de texto para número e 
+// verifica se ele é par ou ímpar utilizando o operador de resto da divisão. Em seguida, exibe o resultado correspondente na 
+// tela e encerra a interface de leitura.
+//************************************************************************************************************************** */

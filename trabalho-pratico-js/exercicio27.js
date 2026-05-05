@@ -49,3 +49,9 @@ rl.question("Informe um número qualquer: ", function(numeroDigitado) {
 
     rl.close();
 });
+
+//******************************* COMENTÁRIO ******************************************************************************* */
+// Este programa solicita ao usuário um número pelo terminal, converte o valor informado para número e utiliza uma 
+// função para verificar se ele é primo, analisando se possui divisores além de 1 e dele mesmo, exibindo no final uma 
+// mensagem indicando se o número é primo ou não e encerrando a execução.
+//************************************************************************************************************************** */

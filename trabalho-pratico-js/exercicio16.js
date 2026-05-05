@@ -23,3 +23,10 @@ for (let i = 1; i <= 10; i++) {
         break;
     }
 }
+
+
+//******************************* COMENTÁRIO ******************************************************************************* */
+// Este programa realiza uma contagem de 1 a 10 utilizando um laço for, exibindo cada número no console e interrompendo a 
+// execução ao encontrar o número 7, momento em que exibe uma mensagem indicando que o valor foi encontrado e finaliza a 
+// contagem com o uso do break.
+//************************************************************************************************************************** */

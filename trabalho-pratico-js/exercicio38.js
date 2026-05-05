@@ -31,3 +31,9 @@ rl.question("Digite uma frase: ", function(frase) {
 
     rl.close();
 });
+
+//******************************* COMENTÁRIO ******************************************************************************* */
+// Este programa solicita ao usuário que digite uma frase, separa o texto em palavras utilizando o método split() 
+// com base nos espaços e calcula a quantidade de palavras por meio do tamanho do array resultante, exibindo o total
+// no console e encerrando a execução.
+//************************************************************************************************************************** */

@@ -33,3 +33,9 @@ rl.question("Digite números separados por espaço: ", function(arrayNumeros) {
 
     rl.close();
 });
+
+//******************************* COMENTÁRIO ******************************************************************************* */
+// Este programa solicita ao usuário uma sequência de números separados por espaço, converte os valores informados em 
+// um array numérico e utiliza o método .map() para gerar um novo array com todos os elementos dobrados, exibindo tanto 
+// o array original quanto o transformado antes de encerrar a execução.
+//************************************************************************************************************************** */
